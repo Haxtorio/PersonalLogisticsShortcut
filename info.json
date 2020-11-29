@@ -1,11 +1,11 @@
 {
     "name": "PersonalLogisticsShortcut",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "title": "Personal Logistics Shortcut",
     "author": "GaticusHax",
     "contact": "https://github.com/Haxtorio/PersonalLogisticsShortcut",
     "homepage": "https://github.com/Haxtorio/PersonalLogisticsShortcut",
-    "factorio_version": "0.18",
+    "factorio_version": "1.1",
     "dependencies": ["base >= 0.18"],
     "description": "Adds a quickbar shortcut for toggling the personal logistics so that the status can be seen without opening the inventory."
 }
